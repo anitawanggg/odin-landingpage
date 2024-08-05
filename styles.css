@@ -1,0 +1,110 @@
+body {
+    height: 100vh;
+    margin: 0;
+    font-family: Roboto, "Times New Roman", serif;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1F2937;
+    padding-right:10px;
+}
+
+.leftheader {
+    font-size: 25px;
+    font-weight: 800;
+    color:#E5E7EB;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.puglogo {
+    width: 70px;
+    height: auto;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 18px;
+    color:#E5E7EB;
+}
+
+.hero {
+    display: flex;
+    background-color: #1F2937;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    gap: 30px;
+}
+
+.leftbanner {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    gap: 30px;
+    align-items: flex-start;
+}
+
+.pugbanner {
+    width: 500px;
+    height: auto;
+}
+
+.heromain {
+    font-size: 48px;
+    font-weight: 1000;
+    color: #F9FAF8;
+}
+
+.herosecondary {
+    font-size: 20px;
+    color:#E5E7EB;
+}
+
+button {
+    background: royalblue;
+    border: 1px solid royalblue;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+
+.gallery {
+    padding: 30px;
+}
+
+.gallerytitle {
+    font-size: 36px;
+    font-weight: 1000;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.gallerycontainer {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.puggallery {
+    width: 150px;
+    height: 150px;
+}
+
+.info {
+    max-width: 150px;
+    text-align: center;
+}
