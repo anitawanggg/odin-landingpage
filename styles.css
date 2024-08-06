@@ -150,6 +150,8 @@ button {
     width: 800px;
     margin: 40px auto;
     border-radius: 8px;
+    flex-direction: column;
+    flex-wrap: wrap;
 }
 
 .calltoaction {

@@ -6,7 +6,7 @@ This is the second project I'm doing after the first recipes project which was t
 What I've learned in this part of the course:
 - How to style elements using combination of CSS and Flexbox properties
 - How to think about elements on a page as boxes, with its primary and cross axis defined based on flex-direction
-- Of all the properties, I found flex-wrap and creating responsive design the hardest; I will need to continue practicing this
+- Of all the properties, I found flex-wrap and creating responsive design the hardest; I will need to continue practicing this, as the current landing page is still not fully responsive (only the pug gallery is..)
 
 Photo Credits
 - pugbanner: https://unsplash.com/photos/fawn-pug-puppy-laying-on-ground-TPZNooS1Meg 
