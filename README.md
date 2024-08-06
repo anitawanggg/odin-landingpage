@@ -4,7 +4,9 @@ Landing page project in Odin Foundations course
 This is the second project I'm doing after the first recipes project which was the concluding project for the HTML portion. This is the concluding project for the CSS/Flexbox portion.
 
 What I've learned in this part of the course:
-
+- How to style elements using combination of CSS and Flexbox properties
+- How to think about elements on a page as boxes, with its primary and cross axis defined based on flex-direction
+- Of all the properties, I found flex-wrap and creating responsive design the hardest; I will need to continue practicing this
 
 Photo Credits
 - pugbanner: https://unsplash.com/photos/fawn-pug-puppy-laying-on-ground-TPZNooS1Meg 
